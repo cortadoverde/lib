@@ -1,0 +1,15 @@
+	{
+	    "name": "cortadoverde/Lib",
+	    "type": "library",
+	    "description": "Librerias escenciales",
+	    "keywords": ["libreria"],
+	    "homepage": "http://cortadoverde.github.io/",
+	    "authors": [
+	        {"name": "Pablo Adrian Samudia", "email": "p.a.samu@gmail.com"}
+	    ],
+	    "autoload": {
+	        "psr-0": {
+	           "Ctv": "src/"
+	        }
+	    }
+	}
