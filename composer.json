@@ -7,6 +7,9 @@
 	    "authors": [
 	        {"name": "Pablo Adrian Samudia", "email": "p.a.samu@gmail.com"}
 	    ],
+	    "require": {
+        	"mustache/mustache" : "~2.1"
+    	},
 	    "autoload": {
 	        "psr-0": {
 	           "Ctv": "/"
