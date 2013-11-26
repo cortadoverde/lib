@@ -4,6 +4,7 @@
 	    "description": "Librerias escenciales",
 	    "keywords": ["libreria"],
 	    "homepage": "http://cortadoverde.github.io/",
+	    "license": "GPL-2.0",
 	    "authors": [
 	        {"name": "Pablo Adrian Samudia", "email": "p.a.samu@gmail.com"}
 	    ],
